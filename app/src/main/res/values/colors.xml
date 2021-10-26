@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="mainColor">#9D1B34</color>
+    <color name="mainLightColor">#DB9294</color>
+    <color name="yellowLightColor">#FFECCC</color>
+    <color name="whiteColor">#FFFFFF</color>
+    <color name="buttonColor">#FF6D00</color>
+    <color name="buttonLightColor">#FFCBA4</color>
+    <color name="indicatorSelectedColor">#5A5A5A</color>
+    <color name="indicatorUnselectedColor">#FFFFFF</color>
+    <color name="textColor">#000000</color>
+    <color name="selectBoxColor">#ECE6E6</color>
+</resources>

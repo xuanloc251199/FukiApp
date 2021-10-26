@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">FukiApp</string>
+    <string name="txtAppName">FUKI</string>
+    <string name="txtUserName">Username</string>
+    <string name="txtPassword">Password</string>
+    <string name="txtForget">Forget Password?</string>
+    <string name="txtLogin">Login</string>
+    <string name="txtDontHaveAcc">Do not have account? </string>
+    <string name="txtSignUp"> Sign Up</string>
+    <string name="txtEmail">Email</string>
+    <string name="txtConfirmPassword">Confirm Password</string>
+    <string name="txtAlreadyHaveAcc">Already have an account? </string>
+    <string name="txtNameProduct">AIRPODS CASE</string>
+    <string name="AMOUNT">(12)</string>
+    <string name="PRICE">$13.50</string>
+    <string name="DESC_PRODUCT">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna. </string>
+    <string name="SELECT_YOUR_DEVICE">Select your device</string>
+    <string name="SELECT">Select one</string>
+    <string name="QUANTITY">Quantity</string>
+    <string name="ADD_TO_CART">ADD TO CART</string>
+    <string name="BUY_NOW">BUY NOW</string>
+    <string name="txtForgotPassword">Forgot Password?</string>
+    <string name="DESC_PASSWORD">Please enter your registered email address! We will  get back to you with the reset password link and confirmation OTP.</string>
+    <string name="ENTER_EMAIL">Enter email</string>
+    <string name="SEND">Send</string>
+    <string name="OTP">OTP Verification</string>
+    <string name="DESC_OTP">Please enter the OTP sent to your email</string>
+    <string name="DONT_HAVE_CODE">Dont have code? </string>
+    <string name="RESEND">Resend</string>
+    <string name="RESET_PASSWORD">Reset Password</string>
+    <string name="DESC_RESET">Your new password must be different from previous used passwords.</string>
+    <string name="CONFIRM_PASSWORD">Confirm Password</string>
+    <string name="MATCHED">Both must be matched.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="miniSize">9sp</dimen>
+    <dimen name="verySmallSize">10sp</dimen>
+    <dimen name="smallSize">11sp</dimen>
+    <dimen name="smallMediumSize">12sp</dimen>
+    <dimen name="normalSize">13sp</dimen>
+    <dimen name="normalXSize">14sp</dimen>
+    <dimen name="mediumSize">16sp</dimen>
+    <dimen name="mediumXSize">18sp</dimen>
+    <dimen name="largeSize">20sp</dimen>
+</resources>
